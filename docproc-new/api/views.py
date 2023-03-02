@@ -16,13 +16,12 @@ import datetime
 import mysql.connector
 
 
-hostname = 'projectdbinstance.coyiwdexlyew.us-east-1.rds.amazonaws.com'
-username = 'admin'
-password = '6283973422'
-database = 'projectdb'
+hostname = 'shivanshdatabase.cqy706odex4o.us-east-1.rds.amazonaws.com'
+username = 'shivanshrds'
+password = 'Shivuu234'
+database = 'shivanshdatabase'
 
-s3_target_bucket = 'target-prabh'
-
+s3_target_bucket = 'shivanshtarget'
 
 # *******************************************************************************************************************
 # Below methods are the handlers for the web http endpoint
