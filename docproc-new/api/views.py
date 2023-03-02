@@ -16,10 +16,10 @@ import datetime
 import mysql.connector
 
 
-hostname = 'myprojectdb.coyiwdexlyew.us-east-1.rds.amazonaws.com'
+hostname = 'projectdbinstance.coyiwdexlyew.us-east-1.rds.amazonaws.com'
 username = 'admin'
 password = '6283973422'
-database = 'myprojectdb'
+database = 'projectdb'
 
 s3_target_bucket = 'target-prabh'
 
